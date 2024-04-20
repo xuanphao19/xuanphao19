@@ -13,5 +13,5 @@
 
 ![to+top](https://github.com/xuanphao19/xuanphao19/assets/83102917/010efc94-54c3-4025-b26c-3b38297d8b3e)
 ![to+top](https://github.com/xuanphao19/xuanphao19/assets/83102917/b7050c29-c68e-42c4-bee2-705d6c8ec8d0)
-![to+top](https://raw.githubusercontent.com/xuanphao19/xuanphao19/02acbd901a9ee968d95e0507b295e035f666b1b5/img/discord.svg)
-![to+top](https://raw.githubusercontent.com/xuanphao19/xuanphao19/02acbd901a9ee968d95e0507b295e035f666b1b5/img/slack.svg)
+<img src="https://github.com/xuanphao19/xuanphao19/blob/main/img/slack.svg" width="50px" height="50px" alt="slack">
+<img src="https://github.com/xuanphao19/xuanphao19/blob/main/img/discord.svg" width="40px" height="45px" alt="discord">
